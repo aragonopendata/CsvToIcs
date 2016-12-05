@@ -1,0 +1,237 @@
+CPRO,CMUN,DC,NOMBRE
+44,001,2,Ababuj
+44,002,7,Abejuela
+44,003,3,Aguatón
+44,004,8,Aguaviva
+44,005,1,Aguilar del Alfambra
+44,006,4,Alacón
+44,007,0,Alba
+44,008,6,Albalate del Arzobispo
+44,009,9,Albarracín
+44,010,3,Albentosa
+44,011,0,Alcaine
+44,012,5,Alcalá de la Selva
+44,013,1,Alcañiz
+44,014,6,Alcorisa
+44,016,2,Alfambra
+44,017,8,Aliaga
+44,021,8,Allepuz
+44,022,3,Alloza
+44,023,9,Allueva
+44,018,4,Almohaja
+44,019,7,Alobras
+44,020,1,Alpeñés
+44,024,4,Anadón
+44,025,7,Andorra
+44,026,0,Arcos de las Salinas
+44,027,6,Arens de Lledó
+44,028,2,Argente
+44,029,5,Ariño
+44,031,6,Azaila
+44,032,1,Bádenas
+44,033,7,Báguena
+44,034,2,Bañón
+44,035,5,Barrachina
+44,036,8,Bea
+44,037,4,Beceite
+44,039,3,Bello
+44,038,0,Belmonte de San José
+44,040,7,Berge
+44,041,4,Bezas
+44,042,9,Blancas
+44,043,5,Blesa
+44,044,0,Bordón
+44,045,3,Bronchales
+44,046,6,Bueña
+44,047,2,Burbáguena
+44,048,8,Cabra de Mora
+44,049,1,Calaceite
+44,050,4,Calamocha
+44,051,1,Calanda
+44,052,6,Calomarde
+44,053,2,Camañas
+44,054,7,Camarena de la Sierra
+44,055,0,Camarillas
+44,056,3,Caminreal
+44,059,8,Cantavieja
+44,060,2,Cañada de Benatanduz
+44,061,9,"Cañada de Verich, La"
+44,062,4,Cañada Vellida
+44,063,0,Cañizar del Olivar
+44,064,5,Cascante del Río
+44,065,8,Castejón de Tornos
+44,066,1,Castel de Cabra
+44,070,0,"Castellar, El"
+44,071,7,Castellote
+44,067,7,Castelnou
+44,068,3,Castelserás
+44,074,3,Cedrillas
+44,075,6,Celadas
+44,076,9,Cella
+44,077,5,"Cerollera, La"
+44,080,8,"Codoñera, La"
+44,082,0,Corbalán
+44,084,1,Cortes de Aragón
+44,085,4,Cosa
+44,086,7,Cretas
+44,087,3,Crivillén
+44,088,9,"Cuba, La"
+44,089,2,Cubla
+44,090,6,Cucalón
+44,092,8,"Cuervo, El"
+44,093,4,Cuevas de Almudén
+44,094,9,Cuevas Labradas
+44,096,5,Ejulve
+44,097,1,Escorihuela
+44,099,0,Escucha
+44,100,4,Estercuel
+44,101,1,Ferreruela de Huerva
+44,102,6,Fonfría
+44,103,2,Formiche Alto
+44,105,0,Fórnoles
+44,106,3,Fortanete
+44,107,9,Foz-Calanda
+44,108,5,"Fresneda, La"
+44,109,8,Frías de Albarracín
+44,110,2,Fuenferrada
+44,111,9,Fuentes Calientes
+44,112,4,Fuentes Claras
+44,113,0,Fuentes de Rubielos
+44,114,5,Fuentespalda
+44,115,8,Galve
+44,116,1,Gargallo
+44,117,7,Gea de Albarracín
+44,118,3,"Ginebrosa, La"
+44,119,6,Griegos
+44,120,0,Guadalaviar
+44,121,7,Gúdar
+44,122,2,Híjar
+44,123,8,Hinojosa de Jarque
+44,124,3,"Hoz de la Vieja, La"
+44,125,6,Huesa del Común
+44,126,9,"Iglesuela del Cid, La"
+44,127,5,Jabaloyas
+44,128,1,Jarque de la Val
+44,129,4,Jatiel
+44,130,8,Jorcas
+44,131,5,Josa
+44,132,0,Lagueruela
+44,133,6,Lanzuela
+44,135,4,Libros
+44,136,7,Lidón
+44,137,3,Linares de Mora
+44,141,3,Lledó
+44,138,9,Loscos
+44,142,8,Maicas
+44,143,4,Manzanera
+44,144,9,Martín del Río
+44,145,2,Mas de las Matas
+44,146,5,"Mata de los Olmos, La"
+44,147,1,Mazaleón
+44,148,7,Mezquita de Jarque
+44,149,0,Mirambel
+44,150,3,Miravete de la Sierra
+44,151,0,Molinos
+44,152,5,Monforte de Moyuela
+44,153,1,Monreal del Campo
+44,154,6,Monroyo
+44,155,9,Montalbán
+44,156,2,Monteagudo del Castillo
+44,157,8,Monterde de Albarracín
+44,158,4,Mora de Rubielos
+44,159,7,Moscardón
+44,160,1,Mosqueruela
+44,161,8,Muniesa
+44,163,9,Noguera de Albarracín
+44,164,4,Nogueras
+44,165,7,Nogueruelas
+44,167,6,Obón
+44,168,2,Odón
+44,169,5,Ojos Negros
+44,171,6,Olba
+44,172,1,Oliete
+44,173,7,"Olmos, Los"
+44,174,2,Orihuela del Tremedal
+44,175,5,Orrios
+44,176,8,Palomar de Arroyos
+44,177,4,Pancrudo
+44,178,0,"Parras de Castellote, Las"
+44,179,3,Peñarroya de Tastavins
+44,180,7,Peracense
+44,181,4,Peralejos
+44,182,9,Perales del Alfambra
+44,183,5,Pitarque
+44,184,0,Plou
+44,185,3,"Pobo, El"
+44,187,2,"Portellada, La"
+44,189,1,Pozondón
+44,190,5,Pozuel del Campo
+44,191,2,"Puebla de Híjar, La"
+44,192,7,"Puebla de Valverde, La"
+44,193,3,Puertomingalvo
+44,194,8,Ráfales
+44,195,1,Rillo
+44,196,4,Riodeva
+44,197,0,Ródenas
+44,198,6,Royuela
+44,199,9,Rubiales
+44,200,3,Rubielos de la Cérida
+44,201,0,Rubielos de Mora
+44,203,1,Salcedillo
+44,204,6,Saldón
+44,205,9,Samper de Calanda
+44,206,2,San Agustín
+44,207,8,San Martín del Río
+44,208,4,Santa Cruz de Nogueras
+44,209,7,Santa Eulalia
+44,210,1,Sarrión
+44,211,8,Segura de los Baños
+44,212,3,Seno
+44,213,9,Singra
+44,215,7,Terriente
+44,216,0,Teruel
+44,217,6,Toril y Masegoso
+44,218,2,Tormón
+44,219,5,Tornos
+44,220,9,Torralba de los Sisones
+44,223,7,Torre de Arcas
+44,224,2,Torre de las Arcas
+44,225,5,Torre del Compte
+44,227,4,Torre los Negros
+44,221,6,Torrecilla de Alcañiz
+44,222,1,Torrecilla del Rebollar
+44,226,8,Torrelacárcel
+44,228,0,Torremocha de Jiloca
+44,229,3,Torres de Albarracín
+44,230,7,Torrevelilla
+44,231,4,Torrijas
+44,232,9,Torrijo del Campo
+44,234,0,Tramacastiel
+44,235,3,Tramacastilla
+44,236,6,Tronchón
+44,237,2,Urrea de Gaén
+44,238,8,Utrillas
+44,239,1,Valacloche
+44,240,5,Valbona
+44,241,2,Valdealgorfa
+44,243,3,Valdecuenca
+44,244,8,Valdelinares
+44,245,1,Valdeltormo
+44,246,4,Valderrobres
+44,247,0,Valjunquera
+44,249,9,"Vallecillo, El"
+44,250,2,Veguillas de la Sierra
+44,251,9,Villafranca del Campo
+44,252,4,Villahermosa del Campo
+44,256,1,Villanueva del Rebollar de la Sierra
+44,257,7,Villar del Cobo
+44,258,3,Villar del Salz
+44,260,0,Villarluengo
+44,261,7,Villarquemado
+44,262,2,Villarroya de los Pinares
+44,263,8,Villastar
+44,264,3,Villel
+44,265,6,Vinaceite
+44,266,9,Visiedo
+44,267,5,Vivel del Río Martín
+44,268,1,"Zoma, La"

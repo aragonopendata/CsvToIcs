@@ -1,0 +1,17 @@
+name: CsvToIcs
+version: 0.0.1
+description: Transform a CVS file to an ICS file.
+author: Ismael Blasco Barrera <isdswii@gmail.com>
+homepage: http://opendata.aragon.es/
+
+environment:
+  sdk: '>=1.0.0 <2.1.0'
+
+dependencies:
+  csv_sheet: any
+
+dev_dependencies:
+  test: '>=0.12.0 <0.13.0'
+
+executables:
+  CsvToIcs: main
